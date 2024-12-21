@@ -1,0 +1,7 @@
+{
+  "name": "ionic-app-base",
+  "app_id": "",
+  "type": "angular-standalone",
+  "browser": "opera",
+  "integrations": {}
+}
